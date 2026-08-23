@@ -64,3 +64,8 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
+
+# https://gohugo.io/host-and-deploy/host-on-github-pages/
+[caches]
+    [caches.images]
+    dir = ':cacheDir/images'
