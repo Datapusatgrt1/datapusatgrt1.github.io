@@ -19,7 +19,6 @@ ignoreErrors = ["error-disable-taxonomy"]
   favicon = "images/favicon.png"
   images = ["images/share.png"]
   title = "renne's ramblings"
-  enablePostNavigator = true
 
 # Configure markup highlighter to match "Bearblog" aesthetics, see
 # https://gohugo.io/configuration/markup/#highlight
