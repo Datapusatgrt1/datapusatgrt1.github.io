@@ -1,7 +1,5 @@
 +++
-title = "Home"
-menu = "main"
-weight = 1
+title = "renne's ramblings"
 +++
 
 # an introduction
